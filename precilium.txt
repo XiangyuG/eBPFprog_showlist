@@ -1,0 +1,172 @@
+123: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+124: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+125: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+126: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+127: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+128: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T09:52:54-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+163: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T11:04:44-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+164: cgroup_skb  tag 6deef7357e7b4530  gpl
+	loaded_at 2024-12-06T11:04:44-0500  uid 0
+	xlated 64B  jited 61B  memlock 4096B
+361: sched_cls  name cil_from_overla  tag 732f6fed92d9042a  gpl
+	loaded_at 2024-12-06T11:06:00-0500  uid 0
+	xlated 1136B  jited 740B  memlock 4096B  map_ids 39,60
+	btf_id 37
+362: sched_cls  name cil_to_overlay  tag 3051019d4f3f4476  gpl
+	loaded_at 2024-12-06T11:06:00-0500  uid 0
+	xlated 408B  jited 245B  memlock 4096B
+	btf_id 38
+363: sched_cls  name __send_drop_not  tag cf219fdd99f88e94  gpl
+	loaded_at 2024-12-06T11:06:00-0500  uid 0
+	xlated 368B  jited 213B  memlock 4096B  map_ids 9
+	btf_id 39
+364: sched_cls  name tail_handle_ipv  tag e96d47f38e983089  gpl
+	loaded_at 2024-12-06T11:06:00-0500  uid 0
+	xlated 2248B  jited 1371B  memlock 4096B  map_ids 38,37,44,39,60
+	btf_id 40
+387: sched_cls  name tail_handle_ipv  tag 3757f9ede20f8cf8  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 4488B  jited 2592B  memlock 8192B  map_ids 37,38,39,40,9,44,74
+	btf_id 70
+388: sched_cls  name tail_handle_ipv  tag d70a9366560b2a89  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 928B  jited 622B  memlock 4096B  map_ids 39,74
+	btf_id 72
+389: sched_cls  name __send_drop_not  tag 5de340824c32b522  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 368B  jited 216B  memlock 4096B  map_ids 9
+	btf_id 73
+391: sched_cls  name cil_to_host  tag 7bc2ac7e45219a23  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 432B  jited 249B  memlock 4096B  map_ids 39
+	btf_id 74
+397: sched_cls  name cil_from_host  tag 3727d19975184e94  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 2368B  jited 1470B  memlock 4096B  map_ids 39,38,74
+	btf_id 78
+399: sched_cls  name __send_drop_not  tag 5de340824c32b522  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 368B  jited 216B  memlock 4096B  map_ids 9
+	btf_id 84
+400: sched_cls  name cil_to_host  tag 7bc2ac7e45219a23  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 432B  jited 249B  memlock 4096B  map_ids 39
+	btf_id 85
+407: sched_cls  name tail_handle_ipv  tag 3757f9ede20f8cf8  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 4488B  jited 2592B  memlock 8192B  map_ids 37,38,39,40,9,44,76
+	btf_id 91
+408: sched_cls  name tail_handle_ipv  tag d70a9366560b2a89  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 928B  jited 622B  memlock 4096B  map_ids 39,76
+	btf_id 93
+409: sched_cls  name __send_drop_not  tag 5de340824c32b522  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 368B  jited 216B  memlock 4096B  map_ids 9
+	btf_id 95
+411: sched_cls  name cil_from_netdev  tag 955313818cb83587  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 2048B  jited 1441B  memlock 4096B  map_ids 39,77,38
+	btf_id 97
+414: sched_cls  name tail_handle_ipv  tag 3757f9ede20f8cf8  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 4488B  jited 2592B  memlock 8192B  map_ids 37,38,39,40,9,44,77
+	btf_id 100
+416: sched_cls  name tail_handle_ipv  tag d70a9366560b2a89  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 928B  jited 622B  memlock 4096B  map_ids 39,77
+	btf_id 101
+429: sched_cls  name __send_drop_not  tag 6ca8bc06036317fc  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 368B  jited 213B  memlock 4096B  map_ids 9
+	btf_id 114
+430: sched_cls  name tail_handle_ipv  tag c1d3b97fb564f378  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 10064B  jited 5645B  memlock 12288B  map_ids 38,80,9,62,45,46,7,37,39,40,79,8,5,6,44
+	btf_id 115
+431: sched_cls  name tail_ipv4_ct_in  tag 83f7ecc1cef52d6d  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6792B  jited 4310B  memlock 8192B  map_ids 39,79,45,46,80,47
+	btf_id 116
+432: sched_cls  name tail_handle_ipv  tag 37b064ec8286c786  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6704B  jited 4120B  memlock 8192B  map_ids 47,39,41,45,46,42,7,79
+	btf_id 117
+433: sched_cls  name cil_from_contai  tag 8a112d0c957532fa  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 760B  jited 603B  memlock 4096B  map_ids 79,39
+	btf_id 118
+434: sched_cls  name tail_ipv4_to_en  tag 70118b42cfcabad6  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 9280B  jited 5217B  memlock 12288B  map_ids 38,39,80,9,45,46,43,62,7,79,8,5,6
+	btf_id 119
+435: sched_cls  name tail_ipv4_ct_eg  tag 1e836ef8a9700f36  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6752B  jited 4288B  memlock 8192B  map_ids 39,79,45,46,80,47
+	btf_id 120
+436: sched_cls  name tail_no_service  tag e3e4cc0771b2ea99  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 5344B  jited 3097B  memlock 8192B  map_ids 39,79
+	btf_id 121
+437: sched_cls  name tail_handle_arp  tag c83a76967a7fc075  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 1592B  jited 956B  memlock 4096B  map_ids 39,79
+	btf_id 122
+438: sched_cls  name handle_policy  tag 96ddb9f8f3141c77  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 15984B  jited 9740B  memlock 16384B  map_ids 39,79,45,46,80,9,43,62,7,47,38,8,5,6
+	btf_id 123
+440: sched_cls  name tail_ipv4_to_en  tag aa7196bd293d589f  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 9280B  jited 5217B  memlock 12288B  map_ids 38,39,82,9,45,46,43,61,7,81,8,5,6
+	btf_id 126
+441: sched_cls  name tail_no_service  tag e3e4cc0771b2ea99  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 5344B  jited 3097B  memlock 8192B  map_ids 39,81
+	btf_id 127
+442: sched_cls  name tail_handle_ipv  tag 89e8dc0343ef9c1f  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 10064B  jited 5645B  memlock 12288B  map_ids 38,82,9,61,45,46,7,37,39,40,81,8,5,6,44
+	btf_id 128
+443: sched_cls  name tail_handle_arp  tag bb829bab01d9ea90  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 1592B  jited 956B  memlock 4096B  map_ids 39,81
+	btf_id 129
+445: sched_cls  name tail_ipv4_ct_in  tag eee10a7bdd33e905  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6792B  jited 4310B  memlock 8192B  map_ids 39,81,45,46,82,47
+	btf_id 131
+446: sched_cls  name cil_from_contai  tag 90dfa7822e997219  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 760B  jited 603B  memlock 4096B  map_ids 81,39
+	btf_id 132
+447: sched_cls  name tail_handle_ipv  tag 9f17ed5694a7aa32  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6704B  jited 4120B  memlock 8192B  map_ids 47,39,41,45,46,42,7,81
+	btf_id 133
+448: sched_cls  name __send_drop_not  tag f835d3baba4a6c73  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 368B  jited 213B  memlock 4096B  map_ids 9
+	btf_id 134
+449: sched_cls  name tail_ipv4_ct_eg  tag 34d00452f411fac8  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 6752B  jited 4288B  memlock 8192B  map_ids 39,81,45,46,82,47
+	btf_id 135
+450: sched_cls  name handle_policy  tag 8c97a1f70e8d6c07  gpl
+	loaded_at 2024-12-06T11:06:04-0500  uid 0
+	xlated 15984B  jited 9740B  memlock 16384B  map_ids 39,81,45,46,82,9,43,61,7,47,38,8,5,6
+	btf_id 136
